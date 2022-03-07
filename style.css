@@ -1,0 +1,9 @@
+#btn1{
+    border: none;
+    font-size: 100px;
+    background: linear-gradient(to right, white, blue, red);
+    border-radius: 50px;
+    cursor: wait;
+    display: block;
+    margin: 300px auto;
+}
